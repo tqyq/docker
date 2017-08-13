@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Altman "sunhui@datahunter.cn"
+MAINTAINER Altman "jindaodama@qq.com"
 
 RUN buildDeps='enca' \
     && apt-get update \

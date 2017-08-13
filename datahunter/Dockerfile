@@ -1,6 +1,6 @@
 FROM datahunter
 
-MAINTAINER Altman "sunhui@datahunter.cn"
+MAINTAINER Altman "jindaodama@qq.com"
 
 ADD supervisord.conf /etc/supervisord.conf
 RUN mkdir -p /var/run/sshd
